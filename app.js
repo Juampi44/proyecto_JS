@@ -47,38 +47,6 @@ const stockProductos = [
       precio: 1200,
       img: "media/01-honda-cb1000r-2021-estudio-negro-739-a.jpg",
     },
-    // {
-    //   id: 7,
-    //   nombre: "League of Legends",
-    //   cantidad: 1,
-    //   desc: "No compres esto por tu bien",
-    //   precio: 1400,
-    //   img: "img/league.jpg",
-    // },
-    // {
-    //   id: 8,
-    //   nombre: "Call Of Duty Warzone",
-    //   cantidad: 1,
-    //   desc: "Dispara como nunca",
-    //   precio: 1200,
-    //   img: "img/callduty.jpg",
-    // },
-    // {
-    //   id: 9,
-    //   nombre: "Fifa 2019",
-    //   cantidad: 1,
-    //   desc: "Juego de futbol",
-    //   precio: 1400,
-    //   img: "img/fifa.jpg",
-    // },
-    // {
-    //   id: 10,
-    //   nombre: "Fornite",
-    //   cantidad: 1,
-    //   desc: "Battle Royale",
-    //   precio: 1200,
-    //   img: "img/fornite.jpg",
-    // },
   ];
   let carrito = [];
   
